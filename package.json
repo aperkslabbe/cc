@@ -19,6 +19,10 @@
   "dependencies": {
     "canvas-sketch": "^0.7.5",
     "canvas-sketch-cli": "^1.11.15",
-    "canvas-sketch-util": "^1.10.0"
+    "canvas-sketch-util": "^1.10.0",
+    "riso-colors": "^1.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
   }
 }
