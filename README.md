@@ -10,7 +10,7 @@ npm i
 ### Generate Sketch
 
 ```bash
-canvas-sketch /sketches/<sketch>.js
+canvas-sketch /sketches/<sketch>.js --output output
 ```
 
 ### Resources
